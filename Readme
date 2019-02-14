@@ -1,3 +1,6 @@
+cmd:
 
-
-so cube
+git clone https://github.com/wangjianglin/cube.git
+git add .
+git commit -m “project update”
+git push -u origin master
